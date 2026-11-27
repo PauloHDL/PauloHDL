@@ -8,8 +8,8 @@
 
 #
 
-<p align="center">Estudante de Biotecnologia na Universidade Federal da Paraíba.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na biotecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+<p align="center">Biotecnologista pela Universidade Federal da Paraíba.
+Estou constantemente atualizando meus conhecimentos nas mais diversas áreas do conhecimento, além de sempre estar em busca de novos desafios na biotecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções no meu dia a dia.
   
 #
 
